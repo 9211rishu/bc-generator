@@ -1,1 +1,1 @@
-# bc-generator
+# bg-generator
